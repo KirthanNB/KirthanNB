@@ -55,8 +55,7 @@ I'm always curious, always learning — especially in the field of AI, where I b
 ### 📊 GitHub Analytics
 
 ![Kirthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirthanNB&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirthanNB&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=KirthanNB&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirthanNB&layout=compact&theme=radical)
 
 
