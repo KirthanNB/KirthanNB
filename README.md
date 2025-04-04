@@ -29,17 +29,8 @@ I'm always curious, always learning — especially in the field of AI, where I b
 - AI & Machine Learning projects  
 - Web applications using Flask or React  
 - Beginner-friendly open-source projects  
-- Hackathons, solution challenges & team-based builds  
-
----
-
-### 🌱 Anything Else?
-- I believe in learning by building — one project at a time.  
-- I'll soon dive into Flask, Firebase, and Dialogflow to create smarter web apps.  
-- I'm preparing for hackathons and working toward becoming a confident full-stack developer.  
-- I enjoy helping peers and sharing what I learn along the way.  
-- Always curious, always experimenting!
-
+- Hackathons, solution challenges & team-based builds
+  
 ---
 
 ### 🛠️ Tech Stack
