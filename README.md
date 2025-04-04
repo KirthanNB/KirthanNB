@@ -35,7 +35,7 @@ I'm always curious, always learning — especially in the field of AI, where I b
 
 ### 🌱 Anything Else?
 - I believe in learning by building — one project at a time.  
-- Currently exploring Flask, Firebase, and Dialogflow to create smarter web apps.  
+- I'll soon dive into Flask, Firebase, and Dialogflow to create smarter web apps.  
 - I'm preparing for hackathons and working toward becoming a confident full-stack developer.  
 - I enjoy helping peers and sharing what I learn along the way.  
 - Always curious, always experimenting!
@@ -54,10 +54,17 @@ I'm always curious, always learning — especially in the field of AI, where I b
 
 ### 📊 GitHub Analytics
 
-![Kirthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirthanNB&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=KirthanNB&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirthanNB&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirthanNB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KirthanNB&theme=highcontrast&hide_border=false" alt="GitHub Streak" onerror="this.style.display='none'" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirthanNB&layout=compact&theme=onedark" alt="Top Languages" />
+</div>
 
 ---
 
@@ -67,4 +74,4 @@ I'm always curious, always learning — especially in the field of AI, where I b
 
 ---
 
-Feel free to leave a ⭐ on any repo that interests you!
+⭐ *Feel free to leave a star on any repo that interests you!*
