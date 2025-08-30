@@ -71,11 +71,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirthanNB&layout=compact&theme=onedark&hide_border=true&langs_count=8" height="170"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirthanNB&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="90%"/>
-</div>
-
 ---
 
 ## 📫 Let's Connect  
