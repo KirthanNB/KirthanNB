@@ -13,6 +13,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KirthanNB&label=Profile%20Views&color=00f7ff&style=flat" alt="Profile Views" /> 
   <img src="https://img.shields.io/github/followers/KirthanNB?label=Follow&style=social&color=00f7ff" alt="GitHub Followers" />
+
+</p>
+<p  align="center">
+        <a href="https://wa.me/917975987833"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 
@@ -79,7 +83,7 @@
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/kirthan-nb-8b522530b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kirthannb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/917875987833"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/917975987833"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>  
   
 
