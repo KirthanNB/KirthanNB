@@ -12,8 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KirthanNB&label=Profile%20Views&color=00f7ff&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/KirthanNB?label=Follow&style=social&color=00f7ff" alt="GitHub Followers" />
-
 </p>
 <p  align="center">
         <a href="https://wa.me/917975987833"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
