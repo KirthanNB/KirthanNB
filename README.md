@@ -7,7 +7,8 @@
 
 <!-- Animated Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+%40+UVCE+💻;AI+%26+ML+Enthusiast+🤖;Full-Stack+Web+Developer+🌐;Tech+Innovator+🚀;Exploring+Code+And+Innovation🧑‍💻;Building+NeethiSaarathi⚖️" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+%40+UVCE+💻;AI+%26+ML+Enthusiast+🤖;Full-Stack+Web+Developer+🌐;Tech+Innovator+🚀;Exploring+Code+And+Innovation🧑‍💻;Building+Planaria
+    " alt="Typing Animation" />
 </p>
 
 <p align="center">
